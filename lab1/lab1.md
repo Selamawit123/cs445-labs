@@ -6,4 +6,6 @@ __git diff__
 
 ![Git Diff](gitdiff.png)
 
-__git add__ 
+__git add__
+![Git Add](gitadd.png)
+
