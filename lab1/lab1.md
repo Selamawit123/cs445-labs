@@ -1,3 +1,7 @@
 # Exercise1
-__gitStatus__
+__git status__
 ![Git Status](gitStatus.png)
+
+__git diff__
+
+![Git Diff](gitdiff.png)
