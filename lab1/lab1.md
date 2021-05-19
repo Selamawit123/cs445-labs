@@ -5,3 +5,5 @@ __git status__
 __git diff__
 
 ![Git Diff](gitdiff.png)
+
+__git add__ 
