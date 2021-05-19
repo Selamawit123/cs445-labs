@@ -16,5 +16,11 @@ __git log__
 ![Git log](gitlog.png)
 
 
+__git show__
+![Git Show](gitshow.png)
+
+
+
+
 
 
