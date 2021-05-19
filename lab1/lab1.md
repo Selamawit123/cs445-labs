@@ -10,5 +10,7 @@ __git add__
 ![Git Add](gitadd.png)
 
 __git commit__
+![Git Commit](gitcommit.png)
+
 
 
