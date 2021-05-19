@@ -19,6 +19,11 @@ __git log__
 __git show__
 ![Git Show](gitshow.png)
 
+__git commit -amend__
+![Git Commit -amend](gitcommit-amend.png)
+
+
+
 
 
 
