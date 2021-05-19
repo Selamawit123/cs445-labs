@@ -12,6 +12,8 @@ __git add__
 __git commit__
 ![Git Commit](gitcommit.png)
 __git log__
+![Git log](gitlog.png)
+
 
 
 
