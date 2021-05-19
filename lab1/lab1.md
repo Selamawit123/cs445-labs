@@ -9,3 +9,6 @@ __git diff__
 __git add__
 ![Git Add](gitadd.png)
 
+__git commit__
+
+
