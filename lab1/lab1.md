@@ -27,13 +27,16 @@ __git show__
 __git commit -amend__
 ![Git Commit -amend](gitcommit-amend.png)
 
-__git Checkout__
+
+__git tag__
+![Git Tag](gittag.png)
+
+
+__git checkout__
 ![Git Checkout](gitcheckout.png)
 
 
 
-__git tag__
-![Git Tag](gittag.png)
 
 
 
