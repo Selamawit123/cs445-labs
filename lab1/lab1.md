@@ -23,6 +23,10 @@ __git commit -amend__
 ![Git Commit -amend](gitcommit-amend.png)
 
 
+__git tag__
+![Git Tag](gittag.png)
+
+
 
 
 
