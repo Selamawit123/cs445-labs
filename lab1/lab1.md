@@ -18,10 +18,11 @@ __git log__
 __git restore__
 ![Git Restore](gitrestore.png)
 
+__git branch__
+![Git Branch](gitbranch.png)
 
-
-
-
+__git Checkout__
+![Git Checkout](gitcheckout.png)
 
 __git show__
 ![Git Show](gitshow.png)
