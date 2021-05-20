@@ -43,6 +43,12 @@ __git conflict__
 ![Git Conflict](gitconflict.png)
 
 
+# Exercise2
+
+__git push__
+
+
+
 
 
 
