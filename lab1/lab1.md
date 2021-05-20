@@ -15,6 +15,13 @@ __git commit__
 __git log__
 ![Git log](gitlog.png)
 
+__git restore__
+![Git Restore](gitrestore.png)
+
+
+
+
+
 
 __git show__
 ![Git Show](gitshow.png)
