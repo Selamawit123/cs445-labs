@@ -48,6 +48,10 @@ __git conflict__
 __git push__
 ![Git Push](gitpush.png)
 
+__git remote__
+![Git Remote](gitremote.png)
+
+
 
 
 
