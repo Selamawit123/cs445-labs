@@ -46,6 +46,8 @@ __git conflict__
 # Exercise2
 
 __git push__
+![Git Push](gitpush.png)
+
 
 
 
