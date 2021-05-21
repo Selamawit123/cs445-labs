@@ -38,6 +38,23 @@ __git checkout__
 __git merge__
 ![Git Merge](gitmerge.png)
 
+__git conflict__
+![Git Conflict](gitconflict.png)
+
+
+# Exercise2
+
+__git push__
+![Git Push](gitpush.png)
+
+__git remote__
+![Git Remote](gitremote.png)
+
+
+
+
+
+
 
 
 
