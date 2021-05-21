@@ -35,6 +35,10 @@ __git tag__
 __git checkout__
 ![Git Checkout](gitcheckout.png)
 
+__git merge__
+![Git Merge](gitmerge.png)
+
+
 
 
 
