@@ -21,13 +21,6 @@ __git restore__
 __git branch__
 ![Git Branch](gitbranch.png)
 
-
-
-
-
-
-
-
 __git show__
 ![Git Show](gitshow.png)
 
@@ -37,6 +30,13 @@ __git commit -amend__
 
 __git tag__
 ![Git Tag](gittag.png)
+
+
+__git checkout__
+![Git Checkout](gitcheckout.png)
+
+
+
 
 
 
