@@ -1,7 +1,7 @@
 # This is Lab 3 assignment
 
 ### Exercise 1 Question
-![]()
+![](Lab3Q1.PNG)
 ### Exercise 1 Answer
 
 
