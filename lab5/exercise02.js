@@ -1,3 +1,12 @@
+Array.prototype.removeDuplicates = function (){
+    let arr = this;
+    return ([...new Set(arr)])
+}
+console.log(`start`);
+console.log([4, 1, 5, 7, 2, 3, 1, 4, 6, 5, 2].removeDuplicates());
+console.log(`end`);
+
+
 Array.prototype.removeDuplicatesAsync = function() {
     let arr = this;
     new Promise(function(resolve, reject) {
