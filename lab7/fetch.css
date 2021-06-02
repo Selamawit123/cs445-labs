@@ -1,0 +1,47 @@
+#name1, #name2, #name3, #name4, #name5 {
+  font-size: 22px;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.container  {
+  width: 600px;
+  padding: 15px;
+  margin: 60px;
+      
+}
+
+#refreshBtn  {
+  width: 100px;
+  padding: 5px;
+  margin: 15px;
+  color: white;
+  text-align: center;
+  font-size: 22px;
+  background-color: rgb(105, 184, 105);
+  font-size: bold;
+      
+}
+
+.container_text {
+  display:block
+}
+
+.container_image {
+  float: center;
+}
+
+.fldset-class {
+  
+  margin: 1pt;
+ background-color: whitesmoke;
+}
+
+.legend-class {
+  text-align: left;
+  font-size: 42px;
+  font-weight: bolder;
+}
+
+
+
+
