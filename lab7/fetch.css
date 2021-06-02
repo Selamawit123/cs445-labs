@@ -1,13 +1,16 @@
-#name1, #name2, #name3, #name4, #name5 {
+#name, #name1, #name2, #name3, #name4 {
   font-size: 22px;
   font-weight: bold;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Arial, Helvetica, sans-serif ;
 }
 .container  {
   width: 600px;
   padding: 15px;
   margin: 60px;
       
+}
+div.a {
+  text-transform: uppercase;
 }
 
 #refreshBtn  {
@@ -17,29 +20,28 @@
   color: white;
   text-align: center;
   font-size: 22px;
-  background-color: rgb(105, 184, 105);
+  background-color: rgb(22, 139, 67);
   font-size: bold;
       
 }
 
 .container_text {
-  display:block
+  display:inline-block;
 }
 
 .container_image {
-  float: center;
-}
-
-.fldset-class {
-  
-  margin: 1pt;
- background-color: whitesmoke;
+  float:inline-start;
+} 
+  .fieldset-class {
+    
+    margin: 1pt;
+   background-color: rgb(235, 239, 243);
 }
 
 .legend-class {
-  text-align: left;
-  font-size: 42px;
-  font-weight: bolder;
+  text-align: center;
+  font-size:large;
+  font-weight:bold;
 }
 
 
